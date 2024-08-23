@@ -2,8 +2,8 @@ package Programas;
 
 import java.lang.Math;
 import java.util.Scanner;
-
-public class Programa02{
+//calculo de la hipotenusa
+public class Programa02math{
     public static void main(String[]args){
       
         double catO,catA,H;
